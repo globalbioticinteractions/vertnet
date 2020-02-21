@@ -4,7 +4,7 @@
   "resources" : {
     "rss": "http://ipt.vertnet.org:8080/ipt/rss.do"
   },
-  "hasDependencies": false,
+  "hasDependencies": true,
   "include": ".*(Arctos).*",
   "exclude": ".*GGBN.*",
   "shouldResolveReferences": false
