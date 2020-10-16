@@ -1,9 +1,7 @@
 { 
   "format": "rss",
   "citation": "https://vertnet.org",
-  "resources" : {
-    "rss": "http://ipt.vertnet.org:8080/ipt/rss.do"
-  },
+  "url": "http://ipt.vertnet.org:8080/ipt/rss.do",
   "hasDependencies": true,
   "include": ".*(Arctos).*",
   "exclude": ".*GGBN.*",
