@@ -5,5 +5,5 @@
   "hasDependencies": true,
   "include": ".*(Arctos).*",
   "exclude": ".*GGBN.*",
-  "shouldResolveReferences": false
+  "shouldResolveReferences": true
 }
