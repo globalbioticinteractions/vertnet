@@ -1,7 +1,7 @@
 { 
   "format": "rss",
   "citation": "Natural History Collections managed by Arctos (https://arctosdb.org) accessed via https://vertnet.org .",
-  "url": "http://ipt.vertnet.org:8080/ipt/rss.do",
+  "url": "https://ipt.vertnet.org/rss.do",
   "hasDependencies": true,
   "include": ".*(Arctos).*",
   "exclude": ".*GGBN.*",
